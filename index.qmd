@@ -3,16 +3,23 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: Screenshot 2025-10-29 195827.png
+  image: https://github.com/jasperCement/moreclue/raw/main/img/Screenshot%202025-10-29%20195827.png
 ---
 
 :::{#me}
 
 ## Goals
+- Conquer the stars, as is mankind's birthright
+- Conquer the interior of the Earth as well
+- Get over my fear of heights
 
 ## Education
+- Self-tought
 
 ## Experience
+- 2700 years working for the US Department of Labor
+- Co-author of 'The Bible'
+- Ended war permenantly
 
 :::
 
